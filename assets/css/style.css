@@ -164,7 +164,7 @@ a:link, a:visited {
     display: inline-block;
     width: 200px;
     height: 150px;
-    background-color: red;
+    /* background-color: red; */
     opacity: 100%;
     z-index: 5000;
     margin: 20px;
